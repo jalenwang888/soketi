@@ -1,0 +1,17 @@
+{
+  "debug": true,
+  "port": 6002,
+  "appManager.array.apps": [
+    {
+      "id": "app-id",
+      "key": "app-key",
+      "secret": "app-secret"
+    }
+  ],
+  "ssl": {
+    "certPath": "/home/wwwroot/moxoapi.wgb168.com/crt/moxoapi.wgb168.com_bundle.pem",
+    "keyPath": "/home/wwwroot/moxoapi.wgb168.com/crt/moxoapi.wgb168.com.key"
+
+  },
+  "logPath":"/home/wwwlog/sokeit.log"
+}

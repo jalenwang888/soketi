@@ -2195,9 +2195,9 @@ window.Pusher = __webpack_require__(/*! pusher-js */ "./node_modules/pusher-js/d
 window.Echo = new laravel_echo__WEBPACK_IMPORTED_MODULE_0__["default"]({
   broadcaster: 'pusher',
   key: "app-key",
-  wsHost: "127.0.0.1",
-  wsPort: "6001",
-  wssPort: "6001",
+  wsHost: 'moxoapi.wgb168.com',
+  wsPort: "6002",
+  wssPort: "6002",
   forceTLS: false,
   encrypted: true,
   disableStats: true,
