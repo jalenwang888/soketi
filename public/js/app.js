@@ -2194,10 +2194,10 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 window.Pusher = __webpack_require__(/*! pusher-js */ "./node_modules/pusher-js/dist/web/pusher.js");
 window.Echo = new laravel_echo__WEBPACK_IMPORTED_MODULE_0__["default"]({
   broadcaster: 'pusher',
-  key: "app-key",
+  key: "ec5d785b4be4570a6294",
   wsHost: 'moxoapi.wgb168.com',
-  wsPort: "6002",
-  wssPort: "6002",
+  wsPort: "6003",
+  wssPort: "6003",
   forceTLS: false,
   encrypted: true,
   disableStats: true,

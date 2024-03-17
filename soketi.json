@@ -1,11 +1,11 @@
 {
   "debug": true,
-  "port": 6002,
+  "port": 6003,
   "appManager.array.apps": [
     {
-      "id": "app-id",
-      "key": "app-key",
-      "secret": "app-secret"
+      "id": "1725766",
+      "key": "ec5d785b4be4570a6294",
+      "secret": "8cf982dc431bb5faeae2"
     }
   ],
   "ssl": {
